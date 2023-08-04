@@ -1,2 +1,4 @@
-# Compression Algorithms
-Repository for dedicated compression algorithms
+# Weissman Hack
+Repository for dedicated compression algorithms hacks and experiments
+
+
